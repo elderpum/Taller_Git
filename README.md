@@ -19,5 +19,5 @@ Veremos desde la teoría hasta unos pequeños ejemplos simples que te ayudaran a
 - [03 - Documentación Oficial de Git (Inglés)](https://git-scm.com/doc)
 - [04 - Github Desktop: Esencial si los comandos no son lo nuestro](https://desktop.github.com)
 - [05 - Curso de Git y Github por Lucas Moy (Youtube)](https://www.youtube.com/watch?v=CK5ZcKZsMRs)
-- [06 - Learn Git Branching: Por si aprender con juegos es lo tuyo](learngitbranching.js.org/)
+- [06 - Learn Git Branching: Por si aprender con juegos es lo tuyo](https://learngitbranching.js.org)
 - [07 - Ingenia USAC](https://www.facebook.com/ingenia.usac) 
