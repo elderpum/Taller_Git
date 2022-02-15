@@ -14,7 +14,7 @@ Veremos desde la teoría hasta unos pequeños ejemplos simples que te ayudaran a
 - Opcionalmente un programa de gestión, como Github Desktop o Gitkraken
 
 ## Enlaces de Utilidad 💻
-- [01 - Presentación de Power Point](https://drive.google.com/drive/folders/1L-ZaMGIxGszC2YRrL5Dbkhww3msPnw0e?usp=sharing)
+- [01 - Presentación de Power Point](https://docs.google.com/presentation/d/1Byhg3je1UCtydQ5-ARHHtzGN8VIkufm11CjYjqd0gbc/edit?usp=sharing)
 - [02 - Github Student Developer Pack](https://education.github.com/pack)
 - [03 - Documentación Oficial de Git (Inglés)](https://git-scm.com/doc)
 - [04 - Github Desktop: Esencial si los comandos no son lo nuestro](https://desktop.github.com)
